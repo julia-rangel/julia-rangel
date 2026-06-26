@@ -5,7 +5,7 @@ I build things at [VIDA](https://vida.place).
 ## 🚀 About me
 
 - 🌍 Working on geospatial / location tools at VIDA
-- 💻 I care about clean code, good UX, and useful software
+- 💻 I care about good UX, and useful software
 - 🌱 Always learning something new
 
 ## 🛠️ Tech I work with
